@@ -9,7 +9,7 @@ Saves the scraped data into a CSV file (books.csv).
 Performs Exploratory Data Analysis (EDA) and visualizes insights.
 Tools & Libraries
 Python 3.x
-requests – to fetch web pages
-BeautifulSoup4 – to parse HTML
-Pandas – to store and clean data
-Matplotlib & Seaborn – for visualization
+requests to fetch web pages
+BeautifulSoup4  to parse HTML
+Pandas  to store and clean data
+Matplotlib & Seaborn  for visualization
